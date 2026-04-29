@@ -24,4 +24,4 @@ do
 
 done < ids.csv
 
-#### creer le fichier ids.txt pour lister les ids des invoices récupérer en DB
+#### creer le fichier ids.csv pour lister les ids des invoices récupérer en DB
