@@ -22,6 +22,6 @@ do
 
   echo "----------------------" | tee -a "$LOG_FILE"
 
-done < ids.txt
+done < ids.csv
 
-#### creer le ficher ids.txt pour lister les ids des invoices récupérer en DB
+#### creer le fichier ids.txt pour lister les ids des invoices récupérer en DB
